@@ -10,6 +10,5 @@ A customizable React component for selecting recurring dates and frequencies —
 - Support for custom intervals
 - Easy integration with forms
 - Built with TypeScript and React
-- Extendable and themable
-
+  
 ---
